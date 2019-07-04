@@ -17,7 +17,7 @@ In the same directory activate the virtual environment
 > venv\Scripts\activate
  
 Install All library
-> pip install -r reuirements.txt
+> pip install -r requirements.txt
 
 Run Jupyter Notebook
 > jupyter notebook
