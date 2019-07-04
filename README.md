@@ -6,13 +6,18 @@ Repo describes about car price prediction by simple linear regression in sklearn
 
 ## Install
 Install latest version Python from python.org
+
 Install virtualenv from command prompt 
 > pip install virtualenv
+
 In directory Contoh_AI, create virtual environment
 > virtualenv venv
+
 In the same directory activate the virtual environment
-> venv\Scripts\activate 
+> venv\Scripts\activate
+ 
 Install All library
 > pip install -r reuirements.txt
+
 Run Jupyter Notebook
 > jupyter notebook
